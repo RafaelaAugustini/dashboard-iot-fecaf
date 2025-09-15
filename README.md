@@ -19,7 +19,7 @@ Projeto que lê dados de temperatura de sensores IoT, grava no PostgreSQL e most
 
 3. **Rodar o pipeline**
 
-- python main.py
+- python script.py
 
 4. **Rodar o dashboard**
 
